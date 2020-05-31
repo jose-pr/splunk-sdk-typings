@@ -1,0 +1,23 @@
+{
+  "name": "@jose-pr/splunk-sdk-typings",
+  "version": "0.5.0",
+  "description": "Typings for splunk-sdk",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose-pr/splunk-sdk-typings.git"
+  },
+  "keywords": [
+    "splunk-sdk", "typings"
+  ],
+  "author": "Jose A.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jose-pr/splunk-sdk-typings/issues"
+  },
+  "homepage": "https://github.com/jose-pr/splunk-sdk-typings#readme",
+  "dependencies": {
+    "@types/elementtree": "^0.1.0"
+  }
+}
